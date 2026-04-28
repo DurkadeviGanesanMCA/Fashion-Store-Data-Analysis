@@ -27,8 +27,6 @@ Sales channel (online/offline)
 Microsoft Excel
 Pivot Tables
 Charts & Dashboards
-Data Cleaning
-(Optional extension) Power BI / Python for advanced analysis
 
 #### 🔄 Data Cleaning Steps
 
