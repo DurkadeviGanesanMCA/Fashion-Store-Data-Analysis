@@ -40,6 +40,9 @@ Verified data types for calculations
 
 #### 📈 Analysis Performed
 
+#### Dashboard Image
+<img width="1534" height="628" alt="fashion_dashboard_converted" src="https://github.com/user-attachments/assets/b06933a8-2818-4d8b-9e50-ff3f469bc32a" />
+
 #### 1. Sales Overview
 
 Total revenue calculation
@@ -56,6 +59,7 @@ Purchasing patterns
 Top-selling categories
 Low-performing products
 Category-wise revenue contribution
+
 #### 4. Order Analysis
 
 Order status distribution (Delivered, Cancelled, Returned)
