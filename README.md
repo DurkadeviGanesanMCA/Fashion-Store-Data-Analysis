@@ -1,10 +1,10 @@
-#### 📊 Fashion Store Data Analysis
+## 📊 Fashion Store Data Analysis
 
-### 📌 Project Overview
+#### 📌 Project Overview
 
 This project analyzes sales data from a fashion retail store to uncover key business insights such as customer behavior, sales trends, product performance, and revenue patterns. The analysis is performed using Excel, focusing on data cleaning, transformation, and visualization.
 
-### 🎯 Objectives
+#### 🎯 Objectives
 
 Identify top-performing products and categories
 Analyze monthly and seasonal sales trends
@@ -13,7 +13,7 @@ Evaluate sales channels and order distribution
 Generate actionable insights for business decision-making
 
 
-### The dataset includes:
+#### The dataset includes:
 
 Order ID
 Customer details (gender, age group)
@@ -23,14 +23,14 @@ Sales amount
 Order status
 Sales channel (online/offline)
 
-### 🛠 Tools & Technologies
+#### 🛠 Tools & Technologies
 Microsoft Excel
 Pivot Tables
 Charts & Dashboards
 Data Cleaning
 (Optional extension) Power BI / Python for advanced analysis
 
-### 🔄 Data Cleaning Steps
+#### 🔄 Data Cleaning Steps
 
 Removed duplicate entries
 Handled missing/null values
@@ -40,28 +40,28 @@ Verified data types for calculations
 
 #### 📈 Analysis Performed
 
-### 1. Sales Overview
+#### 1. Sales Overview
 
 Total revenue calculation
 Monthly sales trend
 Peak sales periods
 
-### 2. Customer Analysis
+#### 2. Customer Analysis
 
 Sales by gender
 Sales by age group
 Purchasing patterns
-### 3. Product Analysis
+#### 3. Product Analysis
 
 Top-selling categories
 Low-performing products
 Category-wise revenue contribution
-### 4. Order Analysis
+#### 4. Order Analysis
 
 Order status distribution (Delivered, Cancelled, Returned)
 Channel-wise sales performance
 
-### 📊 Key Insights
+#### 📊 Key Insights
 
 Certain categories (e.g., ethnic wear, western wear) dominate revenue
 Female customers contribute a higher percentage of total sales
@@ -70,7 +70,7 @@ Online channels outperform offline sales
 A small number of products drive a large portion of revenue (Pareto effect)
 
 
-### 📌 Future Improvements
+#### 📌 Future Improvements
 
 Integrate SQL for large-scale data handling
 Build Power BI dashboard for better visualization
